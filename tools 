@@ -3,15 +3,17 @@ Vscode or Cloud9
 
 Github repo
 Github  actions CICD 
-Api gateway 
+docker containers 
 Terraform
 Sonarqube, Sonarlint
 kubernetes EKS 
 Helm charts
 Fargate, PV with efs, CSI EFS driver 
-CloudWatch , Promethus 
-AppDynamics 
+CloudWatch , AppDynamics  Promethus 
 Container Insights optional 
+linux, cli, shell scripts
+python 
+Api gateway 
 
 
 
@@ -21,3 +23,10 @@ fargate profile
 LB controller 
 Docker - ecr cred helper
 Helm - Deployment, services, pvc
+
+
+git workflow
+automated testing 
+release
+package app - called as artifact 
+
