@@ -1,0 +1,23 @@
+Cloud shell
+Vscode or Cloud9
+
+Github repo
+Github  actions CICD 
+Api gateway 
+Terraform
+Sonarqube, Sonarlint
+kubernetes EKS 
+Helm charts
+Fargate, PV with efs, CSI EFS driver 
+CloudWatch , Promethus 
+AppDynamics 
+Container Insights optional 
+
+
+
+
+eks cluster
+fargate profile
+LB controller 
+Docker - ecr cred helper
+Helm - Deployment, services, pvc
